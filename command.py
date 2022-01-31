@@ -1,3 +1,9 @@
+#Code by aluminum DS Lay#4228 
+#Project by me aluminum
+#Special Thanks: Zeroth
+#Command by me
+#Перевод сделал Hillary
+#Читайте инструкцию чтобы работало!
 @client.command(aliases=["aki"])
 async def akinator(ctx):
     aki = Akinator()
